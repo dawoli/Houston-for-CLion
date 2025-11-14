@@ -1,4 +1,5 @@
-# Houston-for-CLionThis is a color theme called Houston for CLion
+# Houston-for-CLion
+This is a color theme called Houston for CLion featuring cool blues, minty greens, and soft purples
 Only for C/C++ 
 Unsuppoted for other languages 
 Don't use it with them
